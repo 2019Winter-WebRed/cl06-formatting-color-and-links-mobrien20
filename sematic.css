@@ -1,0 +1,37 @@
+/*
+* Meaghan O'Brien 
+* 15 April 2019
+* Sematic Elements
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+    background-color: yellow;
+    font-family: Helvetica; 
+    font-size: 18 pt 
+}
+
+header {
+    background-color: lightpink;
+}
+main {
+    background-color: lightblue;
+}
+footer {
+    background-color: beige;
+}
+a link{
+    color: blanchedalmond;
+    background-color: aquamarine;
+}
+a:hover, a:focus{ 
+    background-color: aquamarine;
+    color: blanchedalmond;
+}
